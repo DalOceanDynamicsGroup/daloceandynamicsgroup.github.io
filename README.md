@@ -21,3 +21,5 @@ hugo server --watch
 4. Push the site and make sure the Action builds.
 
 4. Configure repo Settings to use the `gh-pages` branch for the site (this won't show up until the action has run at least once and created the branch).
+
+![image](https://user-images.githubusercontent.com/233584/142683521-bf26fb1f-0209-4163-b91c-7ffcb45bde68.png)
