@@ -7,13 +7,16 @@ This site uses the Huge Academic Group theme, found at https://github.com/biasla
 1. Install Hugo
 
 2. Install the theme as per the instructions [here](https://github.com/biaslab/hugo-academic-group), e.g.
-
 ```
 hugo new site website_name
 cd website_name
 git clone git@github.com:biaslab/hugo-academic-group.git themes/hugo-academic-group
 cp -av themes/hugo-academic-group/exampleSite/* .
 hugo server --watch
+```
+Make sure that the `config.toml` has the correct `baseurl`, e.g.
+```
+baseurl = "https://richardsc.github.io/academic"
 ```
 
 3. Configure a [Github Action](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) to build the site into the `gh-pages` branch.
