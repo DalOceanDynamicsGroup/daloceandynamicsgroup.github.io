@@ -4,7 +4,7 @@ This site uses the Huge Academic Group theme, found at https://github.com/biasla
 
 # Setup:
 
-1. Install Hugo
+1. Install Hugo and set up a new site: https://gohugo.io/getting-started/quick-start/
 
 2. Install the theme as per the instructions [here](https://github.com/biaslab/hugo-academic-group), e.g.
 ```

@@ -10,6 +10,11 @@ short_name = ""
 title = "Clark Richards"
 
 [[social]]
+    icon = "link"
+    icon_pack = "fa"
+    link = "//clarkrichards.org"
+
+[[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:clark.richards@gmail.com"
@@ -40,7 +45,7 @@ title = "Clark Richards"
     year = 2005
 
 [[organizations]]
-    name = "Bedford Institute of Oceanography, Fisheries and Oceans Canada"
+    name = "Bedford Institute of Oceanography"
     role = "Research Scientist"
 
 [[organizations]]
