@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://richardsc.github.io/academic"
+baseurl = "https://daloceandynamicsgroup.github.io"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Dalhousie Ocean Dynamics Group (DODG)"
