@@ -1,12 +1,12 @@
 +++
-bio = ""
+bio = "Physical oceanographer"
 date = "2021-11-18T15:52:22+02:00"
 id = "clarkrichards"
-interests = ["The ocean"]
+interests = ["Observations", "Ocean Mixing", "Technology", "Sensors"]
 name = "Clark Richards"
 portrait = "portrait/clark_greenland_headshot_sm.jpg"
-short_bio = "My short bio. I am Clark Richards."
-short_name = ""
+short_bio = "Observational physical oceanographer interested in ocean mixing, watermass transformation, and sensors"
+short_name = "Clark"
 title = "Clark Richards"
 
 [[social]]
@@ -53,61 +53,15 @@ title = "Clark Richards"
     role = "Adjunct"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+<img style="float: left" alt="subglacial plume" src="/img/img_05073.jpg" width="150">
+<img style="float: left" alt="SLEIWEX survival" src="/img/sleiwex_survival.jpg" width="150">
+<img style="float: left" alt="SLEIWEX mooring" src="/img/sleiwex_mooring.jpg" width="150">
 
-## Ait erili meruisse iactatis omnibus erat
+<br><br><br><br><br><br><br><br>
 
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
+I am a physical oceanographer who uses observations to study how ocean water is mixed and transformed. I am currently working as Research Scientist at the [Bedford Institute of Oceanography](http://www.bio.gc.ca/index-en.php) in Halifax, Nova Scotia. Previously, I worked as a physical oceanographer with [RBR](http://www.rbr-global.com) in Ottawa, Ontario, and as a postdoctoral investigator at the [Woods Hole Oceanographic Institution](www.whoi.edu) in Woods Hole Massachusetts.
 
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
+I obtained my PhD in physical oceanography in 2012 from Dalhousie University, working with [Dr. Dan Kelley](http://www.dal.ca/faculty/science/oceanography/people/faculty/daniel-e-kelley.html). I am also a co-author of the [oce package](http://dankelley.github.io/oce/) for doing oceanographic analysis in [R](http://r-project.org).
 
-Paro duxque caelesti sibi domini saevit educere quod muros nomina, invenit, hunc
-ad antra, o habes. Pereo violenta penates. Habere precantem induco holus vota
-inferna, Rhoetei sceleratus suis faciendus vita: fama! Erat alta; ante tacito
-[erit excipit](http://tendebat.net/probatur.aspx), sua *ignarus* palato ventis
-cunctaque amor relevare igne. Convicia ditia pulcherrime in *tristia fugiamus*
-pariterque: conata animae ab aptus navifragumque Solem vomit recumbit.
-
-## Terribilem pars levius manus freta nec fraudes
-
-Arva mirum similis deducit; liquores ira. Caelo quae foramen cauda properabat,
-rabiem fors, **cum** in poste. Linguam nisi, nec aegros quis viros plura iam,
-ubi alipedi sumptis nocte. Tela ter sidera Telamon
-[tamen](http://aut-illa.net/et), miseri motu sibi quod dicere, **Aeacides**
-bellicus pater.
-
-    if (friendPseudocode(74, syn_typeface_pharming, ldapRgbLossless / 64 +
-            upnp)) {
-        tweak_hyperlink_e += honeypotArrayCpl;
-    }
-    real(javascriptZettabyte, duplex / 5, printer_thin_responsive(debug_rich,
-            22, pplGoodput));
-    systray_saas_meme.friendly_upload = irqLinux(copyright * cookie +
-            social_name_toolbar, cmyk);
-
-Meque genitor. Tacito miserabilis virgo: populos quem, habet odores orbem.
-Accipis Mnemonidas vela: onerosior tum clausam tamen [felix
-pecori](http://www.dryopen-quoque.net/), quod admovit edidit.
-
-1. Spargitque taurus
-2. Nec tibi vota gemini Echo
-3. Capillo thalamique
-4. Tergora quod haec mutataeque tamen effugit stare
-5. Laertiadaeque tulit causamque iuris
-
-Moribunda nec certe succedere mediam rediit locuta laudatis lacertos pecori unda
-positaeque verentur quos devertor Alcyone musta? Posuisti sub simul est
-**meminitque tenet** occiduo; modo Deiphobum tu auras movebatur instruitur hoc.
-Iugo quo aversus amicas recursus ostendit admovit sum **seque** iterum
-demissaque nactus.
+In the ocean, seawater is constantly being transformed by physical processes. From turbulence caused by internal waves in an estuary, to large-scale interaction with the atmosphere at high latitudes, to the very edge of the Greenland ice sheet, changes in temperature and salinity control the density of seawater, which in turn determines ocean currents. The scales involved range from 10’s of kilometers (warm eddies spun off from an unstable boundary current) to millimeters (the scale at which kinetic energy is dissipated by turbulence). My interests lie in obtaining measurements to reveal the details of these dynamic processes.
