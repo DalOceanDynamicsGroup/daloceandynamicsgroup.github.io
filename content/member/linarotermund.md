@@ -30,13 +30,13 @@ title = "Lina Rotermund"
     link = "//github.com/"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "Oceaography"
+    institution = 'Dalhousie University'
+    year = 2020
 
 [[organizations]]
     name = "Dalhousie University"
-    role = "Assistant Professor"
+    role = "PhD Student"
 
 +++
 You can write $\LaTeX$ and *Markdown* here.
