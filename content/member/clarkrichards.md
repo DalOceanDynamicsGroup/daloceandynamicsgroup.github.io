@@ -2,9 +2,9 @@
 bio = ""
 date = "2021-11-18T15:52:22+02:00"
 id = "clarkrichards"
-interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
+interests = ["The ocean"]
 name = "Clark Richards"
-portrait = "portrait/images.jpeg"
+portrait = "portrait/clark_greenland_headshot_sm.jpg"
 short_bio = "My short bio. I am Clark Richards."
 short_name = ""
 title = "Clark Richards"
