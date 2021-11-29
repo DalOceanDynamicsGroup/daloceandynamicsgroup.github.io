@@ -1,6 +1,6 @@
 # Sample academic group site
 
-This site uses the Huge Academic Group theme, found at https://github.com/biaslab/hugo-academic-group. 
+This site uses the Huge Academic Group theme, found at https://github.com/biaslab/hugo-academic-group.
 
 # Setup:
 
@@ -26,3 +26,5 @@ baseurl = "https://richardsc.github.io/"
 4. Configure repo Settings to use the `gh-pages` branch for the site (this won't show up until the action has run at least once and created the branch).
 
 ![image](https://user-images.githubusercontent.com/233584/143870276-d18e2c29-e203-4a87-9d1d-0c210b6dbfde.png)
+
+# This is Mat adding stuff to README ! :)
