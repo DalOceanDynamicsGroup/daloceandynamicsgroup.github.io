@@ -27,23 +27,30 @@ baseurl = "https://richardsc.github.io/"
 
 ![image](https://user-images.githubusercontent.com/233584/143870276-d18e2c29-e203-4a87-9d1d-0c210b6dbfde.png)
 
-# This is Mat adding stuff to README ! :)
-
-6. Adding content
+6. Quick start adding content (not ideal... see next step for better way)
 
 git clone https://github.com/DalOceanDynamicsGroup/daloceandynamicsgroup.github.io.git
 
 Then edit what you want to.
 
-Then git add; git commit; git push.
+Then 
+```
+git add
+git commit
+git push
+```
+
+7. Making a fork and updating the main website (this is how we ought to maintain the website)
+
+Make your own fork of the repository. Clone that to your computer and edit files as you wish. 
+git add; git commit and git push them back to your fork of the repository. 
+
+Once you have done this and are happy with your changes, you need to set up a pull request to the main site to see them appear. To do this, you need to  
+```
+git fetch upstream 
+```
+(this is similar to git pull as it tries to update your fork with respect to the main repo, but it does not try to merge the changes), then create a pull request. This will be reviewed by Clark or Ruth and then your changes will be merged with the main website.
 
 
-# This is Marie's line
-
-
-Ruby added this
-
-
-Lina added text.
 
 
