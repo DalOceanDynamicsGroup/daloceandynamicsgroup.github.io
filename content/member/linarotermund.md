@@ -3,11 +3,11 @@ bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "member1"
 interests = ["The ocean"]
-name = "Ruby Yee"
+name = "Lina Rotermund"
 portrait = "/portraits/portrait.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
-title = "Ruby Yee"
+title = "Lina Rotermund"
 
 [[social]]
     icon = "envelope"
