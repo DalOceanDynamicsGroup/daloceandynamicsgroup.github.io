@@ -2,12 +2,12 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "member1"
-interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
-name = "Member Member"
+interests = ["The ocean"]
+name = "Ruth Musgrave"
 portrait = "/portraits/portrait.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
-title = "Member 1"
+title = "Ruth Musgrave"
 
 [[social]]
     icon = "envelope"
@@ -35,8 +35,8 @@ title = "Member 1"
     year = 2004
 
 [[organizations]]
-    name = "Harvard University"
-    role = "Full Professor"
+    name = "Dalhousie University"
+    role = "Assistant Professor"
 
 +++
 You can write $\LaTeX$ and *Markdown* here.

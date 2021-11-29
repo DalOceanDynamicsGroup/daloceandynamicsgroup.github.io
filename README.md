@@ -23,8 +23,17 @@ baseurl = "https://richardsc.github.io/"
 
 4. Push the site and make sure the Action builds.
 
-4. Configure repo Settings to use the `gh-pages` branch for the site (this won't show up until the action has run at least once and created the branch).
+5. Configure repo Settings to use the `gh-pages` branch for the site (this won't show up until the action has run at least once and created the branch).
 
 ![image](https://user-images.githubusercontent.com/233584/143870276-d18e2c29-e203-4a87-9d1d-0c210b6dbfde.png)
 
 # This is Mat adding stuff to README ! :)
+
+6. Adding content
+
+git clone https://github.com/DalOceanDynamicsGroup/daloceandynamicsgroup.github.io.git
+
+Then edit what you want to.
+
+Then git add; git commit; git push.
+
