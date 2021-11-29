@@ -16,7 +16,7 @@ hugo server --watch
 ```
 Make sure that the `config.toml` has the correct `baseurl`, e.g.
 ```
-baseurl = "https://richardsc.github.io/academic"
+baseurl = "https://richardsc.github.io/"
 ```
 
 3. Configure a [Github Action](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) to build the site into the `gh-pages` branch.
