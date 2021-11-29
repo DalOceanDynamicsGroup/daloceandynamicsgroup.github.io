@@ -30,9 +30,9 @@ title = "Ruby Yee"
     link = "//github.com/"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "BSc in Integrated Science (Physics Concentration)"
+    institution = 'McMaster University'
+    year = 2020
 
 [[organizations]]
     name = "Dalhousie University"
