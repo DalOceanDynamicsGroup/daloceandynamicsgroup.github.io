@@ -2,17 +2,17 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "member1"
-interests = ["The ocean"]
-name = "Ruby Yee"
+interests = ["Ocean mixing, internal waves"]
+name = "Marie Babineau"
 portrait = "/portraits/portrait.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
-title = "Ruby Yee"
+title = "Marie Babineau"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "marie.babineau@dal.ca"
 
 [[social]]
     icon = "twitter"
@@ -30,31 +30,17 @@ title = "Ruby Yee"
     link = "//github.com/"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "B.Eng Water Engineering"
+    institution = 'Université Laval'
+    year = 2020
 
 [[organizations]]
     name = "Dalhousie University"
-    role = "Assistant Professor"
+    role = "Msc Student"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+I am a graduate Student under the suppervision of Dr. Ruth Musgrave. My research focusses on the effects of depth varying current on lee wave propagation and energetics. I joined the group in 2020, after a bachelor’s degree in Water Engineering at Université Laval.
 
-## Ait erili meruisse iactatis omnibus erat
-
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
-
+As for my hobbies, I
+play indoor and beach volleyball. I also enjoy trekking and rock climbing.
