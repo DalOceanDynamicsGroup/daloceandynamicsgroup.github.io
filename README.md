@@ -37,7 +37,7 @@ Then
 ```
 git add
 git commit
-git push.
+git push
 ```
 
 7. Making a fork and updating the main website (this is how we ought to maintain the website)
