@@ -25,4 +25,4 @@ baseurl = "https://richardsc.github.io/"
 
 4. Configure repo Settings to use the `gh-pages` branch for the site (this won't show up until the action has run at least once and created the branch).
 
-![image](https://user-images.githubusercontent.com/233584/142684554-28d6122c-156e-4526-be7b-41d3904931d9.png)
+![image](https://user-images.githubusercontent.com/233584/143870276-d18e2c29-e203-4a87-9d1d-0c210b6dbfde.png)
