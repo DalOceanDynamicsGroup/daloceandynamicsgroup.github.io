@@ -58,11 +58,11 @@ In order to get your changes included in the original repository you use the Git
 
 You make a pull request (or PR) by going to the Github page for your fork, e.g. https://github.com/YOUR-USER-NAME/daloceandynamicsgroup.github.io, going to the "Pull Requests" tab:
 
-IMG
+![image](https://user-images.githubusercontent.com/233584/143981782-2baea749-cfb7-4725-9025-3e9b0fcacd96.png)
 
 and then clicking on the "New Pull Request" button:
 
-IMG
+![image](https://user-images.githubusercontent.com/233584/143981813-4258bdd8-d5be-47af-9b67-016f1bd70988.png)
 
 Once your commits have been reviewed, they will be merged by a repo admin and included in the main repository.
 
@@ -72,7 +72,7 @@ Because your fork only matched the original repository at the time you forked it
 
 1. Use the "Fetch upstream" buttom on the Github page for your fork. Easy.
 
-IMG
+![image](https://user-images.githubusercontent.com/233584/143981849-e257d780-9ee1-4cb3-9d4c-f68e61f27df9.png)
 
 2. Update your fork to recognize the original repo as the "upstream" one, which will allow you to fetch (and merge) changes directly at the command line of your own fork. For more details, see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-from-the-command-line), but it essentially amounts to the following steps.
 
