@@ -1,4 +1,4 @@
-# Sample academic group site
+# Dal Ocean Dynamics Group website
 
 This site uses the Huge Academic Group theme, found at https://github.com/biaslab/hugo-academic-group.
 
