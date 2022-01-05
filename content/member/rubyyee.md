@@ -27,7 +27,7 @@ title = "Ruby Yee"
 [[education]]
     course = "MSc in Physical Oceanography"
     institution = 'Dalhousie University'
-    year = in progress
+    year = "in progress"
 
 [[organizations]]
     name = "Dalhousie University"
