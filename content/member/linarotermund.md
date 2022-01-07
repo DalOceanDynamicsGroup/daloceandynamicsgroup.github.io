@@ -35,7 +35,7 @@ title = "Lina Rotermund"
     year = 2019
 
 [[education]] 
-    course = "Ph.D in  Physical  Oceanography"
+    course = "Ph.D. in  Physical  Oceanography"
     institution = 'Dalhousie University'
     year = "in progress"
 
