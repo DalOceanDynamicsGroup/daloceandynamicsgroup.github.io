@@ -4,7 +4,7 @@ date = "2016-07-12T15:52:22+02:00"
 id = "linar"
 interests = ["Ocean mixing" "Water mass modification" "Internal waves" "Canadian Arctic Archipelago" "Sea ice"]
 name = "Lina Rotermund"
-portrait = "/portraits/lina_Saglek.jpg"
+portrait = "/portraits/Lina_Saglek.jpg"
 short_bio = "Graduate Student"
 short_name = "Lina"
 title = "Lina Rotermund"
@@ -17,7 +17,7 @@ title = "Lina Rotermund"
 [[social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "https://scholar.google.com/citations?user=TUivWWAAAAAJ&hl=en"
 
 [[social]]
     icon = "github"
@@ -25,7 +25,7 @@ title = "Lina Rotermund"
     link = "//github.com/LMR19"
 
 [[education]]
-    course = "B.Sc. combined honours in Physics and Oceaography"
+    course = "B.Sc. combined honours in Physics and Oceanography"
     institution = 'Dalhousie University'
     year = 2016
 
@@ -35,7 +35,7 @@ title = "Lina Rotermund"
     year = 2019
 
 [[education]] 
-    course = "Ph.D in  Physical  Oceaography"
+    course = "Ph.D in  Physical  Oceanography"
     institution = 'Dalhousie University'
     year = "in progress"
 
