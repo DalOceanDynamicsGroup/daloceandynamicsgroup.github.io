@@ -2,59 +2,53 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "member1"
-interests = ["The ocean"]
+interests = ["Geophysical Fluid Dynamics" "Ocean Mixing" "Internal waves" "Submesoscale dynamics" "Instablities"]
 name = "Ruth Musgrave"
 portrait = "portrait/images.jpeg"
-short_bio = "My short bio. I am Member Member."
+short_bio = "Assistant Professor. Canada Research Chair Tier II."
 short_name = ""
 title = "Ruth Musgrave"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/"
+    link = "mailto:rmusgrave@dal.ca"
 
 [[social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "https://scholar.google.com/citations?user=nbd0gTMAAAAJ&hl=en"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "//github.com/rcmusgrave"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "PhD Physical Oceanography"
+    institution = 'Scripps Institution of Oceanography, University of California San Diego'
+    year = 2015
+
+[[education]]
+    course = "BSc Honours Applied Mathematics"
+    institution = 'Monash University, Victoria, Australia'
+    year = 2008
+
+[[education]]
+    course = "BSc Physics"
+    institution = 'Melbourne University, Victoria, Australia'
+    year = 2005
 
 [[organizations]]
     name = "Dalhousie University"
-    role = "Assistant Professor"
+    role = "Assistant Professor, Canada Research Chair Tier II"
+
+[[organizations]]
+    name = "Woods Hole Oceanographic Institution"
+    role = "Adjunct Scientist"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+I study the the physics of the ocean, mostly at scales that are relevant to the forward cascade of energy towards 3D turbulence and ocean mixing. I am interested in both the processes that lead to ocean mixing, as well as the impact that mixing has on the physics, biology and chemistry of the ocean.
 
-## Ait erili meruisse iactatis omnibus erat
-
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
 
