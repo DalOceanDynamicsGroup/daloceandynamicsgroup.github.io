@@ -4,10 +4,10 @@ date = "2016-07-12T15:52:22+02:00"
 id = "linar"
 interests = ["Ocean mixing" "Water mass modification" "Internal waves" "Canadian Arctic Archipelago" "Sea ice"]
 name = "Lina Rotermund"
-portrait = "/portraits/Lina_Saglek.jpg"
+portrait = "portrait/Lina_Saglek.jpg"
 short_bio = "Graduate Student"
 short_name = "Lina"
-title = "Lina Rotermund"
+title = "Lina M. Rotermund"
 
 [[social]]
     icon = "envelope"
