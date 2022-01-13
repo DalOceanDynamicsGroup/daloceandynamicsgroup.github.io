@@ -75,6 +75,12 @@ This is not ideal if there are a lot of people trying to edit the same files, as
 
 The alternative is to make your own personal copy of the main repository (called a "fork"). You then clone your fork, make edits, add changes, commit changes, and then push back up to your fork on Github.
 
+**Note about using a theme submodule:** Because we are using a git "submodule" to track the theme repository, when you first clone your fork of the upstream repository you need to do:
+```
+git submodule update --init --recursive
+```
+to make sure you have the submodule files in place in your repo. This ensures that you'll be able to preview the site locally using `hugo serve` before creating a Pull Request to the main repo.
+
 In order to get your changes included in the original repository you use the Github website to create a "Pull Request". This is a mechanism that allows one of the repo admins to review your changes before merging them back in to the original (or "upstream") repository.
 
 You make a pull request (or PR) by going to the Github page for your fork, e.g. https://github.com/YOUR-USER-NAME/daloceandynamicsgroup.github.io, going to the "Pull Requests" tab:
