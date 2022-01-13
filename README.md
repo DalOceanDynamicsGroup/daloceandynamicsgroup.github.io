@@ -2,24 +2,45 @@
 
 This site uses the Huge Academic Group theme, found at https://github.com/biaslab/hugo-academic-group.
 
-# Setup:
+# Initial Setup (only do this when setting up for the first time):
 
 1. Install Hugo and set up a new site: https://gohugo.io/getting-started/quick-start/
 
-2. Install the theme as per the instructions [here](https://github.com/biaslab/hugo-academic-group), e.g.
+2. Create a git repository from the newly created site directory
+```
+cd website_name
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main # make sure that the branch is called "main" and not "master"
+```
+
+2. Create a Github repository (on the website), add it as a remote for the local repo, and push it up to Github:
+```
+git remote add origin git@github.com:username/website_name
+git push -u origin main
+```
+
+2. Install the theme (similar to the instructions [here](https://github.com/biaslab/hugo-academic-group), but instead of just cloning we use a git submodule to track the theme repository), e.g.
 ```
 hugo new site website_name
 cd website_name
-git clone git@github.com:biaslab/hugo-academic-group.git themes/hugo-academic-group
+git submodule add git@github.com:biaslab/hugo-academic-group.git themes/hugo-academic-group
 cp -av themes/hugo-academic-group/exampleSite/* .
 hugo server --watch
 ```
-Make sure that the `config.toml` has the correct `baseurl`, e.g.
+If everything looks good, make sure to commit and push it up to Github:
 ```
-baseurl = "https://richardsc.github.io/"
+git commit -am "add theme submodule"
+git push
 ```
 
 3. Configure a [Github Action](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) to build the site into the `gh-pages` branch.
+
+In order for this to work as a Github pages hosted site, you have to make sure that the `config.toml` has the correct `baseurl`, e.g.
+```
+baseurl = "https://dalhousieoceandynamicsgroup.github.io/"
+```
 
 4. Push the site and make sure the Action builds.
 
