@@ -2,52 +2,6 @@
 
 This site uses the Huge Academic Group theme, found at https://github.com/biaslab/hugo-academic-group.
 
-# Initial Setup (only do this when setting up for the first time):
-
-1. Install Hugo and set up a new site: https://gohugo.io/getting-started/quick-start/
-
-2. Create a git repository from the newly created site directory
-```
-cd website_name
-git init
-git add .
-git commit -m "initial commit"
-git branch -M main # make sure that the branch is called "main" and not "master"
-```
-
-2. Create a Github repository (on the website), add it as a remote for the local repo, and push it up to Github:
-```
-git remote add origin git@github.com:username/website_name
-git push -u origin main
-```
-
-2. Install the theme (similar to the instructions [here](https://github.com/biaslab/hugo-academic-group), but instead of just cloning we use a git submodule to track the theme repository), e.g.
-```
-hugo new site website_name
-cd website_name
-git submodule add git@github.com:biaslab/hugo-academic-group.git themes/hugo-academic-group
-cp -av themes/hugo-academic-group/exampleSite/* .
-hugo server --watch
-```
-If everything looks good, make sure to commit and push it up to Github:
-```
-git commit -am "add theme submodule"
-git push
-```
-
-3. Configure a [Github Action](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) to build the site into the `gh-pages` branch.
-
-In order for this to work as a Github pages hosted site, you have to make sure that the `config.toml` has the correct `baseurl`, e.g.
-```
-baseurl = "https://dalhousieoceandynamicsgroup.github.io/"
-```
-
-4. Push the site and make sure the Action builds.
-
-5. Configure repo Settings to use the `gh-pages` branch for the site (this won't show up until the action has run at least once and created the branch).
-
-![image](https://user-images.githubusercontent.com/233584/143870276-d18e2c29-e203-4a87-9d1d-0c210b6dbfde.png)
-
 # Editing Content
 
 There are two ways to add/edit content on the site.
@@ -69,13 +23,21 @@ git commit -am "made some changes" # (the -a says commit changes to all tracked 
 git push
 ```
 
-This is not ideal if there are a lot of people trying to edit the same files, as it can quickly result in "merge conflicts" (basically, when git can't decide what it can merge and what it needs someone to take a look at).
+Note that if you want to be able to preview locally before pushing, because we are using a git "submodule" to track the theme repository, when you first clone the repository from Github (e.g. after doing `git clone git@github.com:daloceandynamicsgroup/daloceandynamicsgroup.github.io`) you need to do:
+```
+git submodule update --init --recursive
+```
+to make sure you have the submodule files in place in your repo. This ensures that you'll be able to preview the site locally using `hugo serve` before creating a Pull Request to the main repo.
+
+This method is generally not ideal if there are a lot of people trying to edit the same files, as it can quickly result in "merge conflicts" (basically, when git can't decide what it can merge and what it needs someone to take a look at).
 
 ## 2. The Forking method:
 
-The alternative is to make your own personal copy of the main repository (called a "fork"). You then clone your fork, make edits, add changes, commit changes, and then push back up to your fork on Github.
+The alternative is to make your own personal copy of the main repository (called a "fork"). You then clone your fork, make edits, add changes, commit changes, and then push back up to your fork on Github. To make a fork you click the "fork" button on the main page of the Github repo for the organization:
 
-**Note about using a theme submodule:** Because we are using a git "submodule" to track the theme repository, when you first clone your fork of the upstream repository you need to do:
+**IMAGE HERE**
+
+Again, because we are using a git "submodule" to track the theme repository, when you first clone your fork of the upstream repository you need to do:
 ```
 git submodule update --init --recursive
 ```
@@ -164,3 +126,49 @@ Once you've configured the remote "upstream" repo (only have to do this once), y
   ```
   
 Note that syncing your fork only updates your local copy of the repository. To update your fork on GitHub.com, you must [push your changes](https://docs.github.com/en/github/getting-started-with-github/pushing-commits-to-a-remote-repository).
+
+# Initial Setup (only do this when setting up for the first time):
+
+1. Install Hugo and set up a new site: https://gohugo.io/getting-started/quick-start/
+
+2. Create a git repository from the newly created site directory
+```
+cd website_name
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main # make sure that the branch is called "main" and not "master"
+```
+
+2. Create a Github repository (on the website), add it as a remote for the local repo, and push it up to Github:
+```
+git remote add origin git@github.com:username/website_name
+git push -u origin main
+```
+
+2. Install the theme (similar to the instructions [here](https://github.com/biaslab/hugo-academic-group), but instead of just cloning we use a git submodule to track the theme repository), e.g.
+```
+hugo new site website_name
+cd website_name
+git submodule add git@github.com:biaslab/hugo-academic-group.git themes/hugo-academic-group
+cp -av themes/hugo-academic-group/exampleSite/* .
+hugo server --watch
+```
+If everything looks good, make sure to commit and push it up to Github:
+```
+git commit -am "add theme submodule"
+git push
+```
+
+3. Configure a [Github Action](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) to build the site into the `gh-pages` branch.
+
+In order for this to work as a Github pages hosted site, you have to make sure that the `config.toml` has the correct `baseurl`, e.g.
+```
+baseurl = "https://dalhousieoceandynamicsgroup.github.io/"
+```
+
+4. Push the site and make sure the Action builds.
+
+5. Configure repo Settings to use the `gh-pages` branch for the site (this won't show up until the action has run at least once and created the branch).
+
+![image](https://user-images.githubusercontent.com/233584/143870276-d18e2c29-e203-4a87-9d1d-0c210b6dbfde.png)
