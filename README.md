@@ -35,7 +35,7 @@ This method is generally not ideal if there are a lot of people trying to edit t
 
 The alternative is to make your own personal copy of the main repository (called a "fork"). You then clone your fork, make edits, add changes, commit changes, and then push back up to your fork on Github. To make a fork you click the "fork" button on the main page of the Github repo for the organization:
 
-**IMAGE HERE**
+![image](https://user-images.githubusercontent.com/233584/149681765-97759412-4ae9-4191-bbeb-88e6b38516d0.png)
 
 Again, because we are using a git "submodule" to track the theme repository, when you first clone your fork of the upstream repository you need to do:
 ```
