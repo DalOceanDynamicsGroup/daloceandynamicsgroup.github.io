@@ -1,13 +1,14 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "member1"
-interests = ["Geophysical Fluid Dynamics" "Ocean Mixing" "Internal waves" "Submesoscale dynamics" "Instablities"]
+id = "ruth"
+interests = ["Geophysical Fluid Dynamics", "Ocean Mixing", "Internal waves", "Submesoscale dynamics", "Instablities"]
 name = "Ruth Musgrave"
 portrait = "portrait/images.jpeg"
-short_bio = "Assistant Professor. Canada Research Chair Tier II."
+short_bio = "Associate Professor. Canada Research Chair Tier II."
 short_name = ""
 title = "Ruth Musgrave"
+weight = 1
 
 [[social]]
     icon = "envelope"
@@ -38,14 +39,6 @@ title = "Ruth Musgrave"
     course = "BSc Physics"
     institution = 'Melbourne University, Victoria, Australia'
     year = 2005
-
-[[organizations]]
-    name = "Dalhousie University"
-    role = "Assistant Professor, Canada Research Chair Tier II"
-
-[[organizations]]
-    name = "Woods Hole Oceanographic Institution"
-    role = "Adjunct Scientist"
 
 +++
 

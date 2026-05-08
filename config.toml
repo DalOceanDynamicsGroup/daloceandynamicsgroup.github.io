@@ -7,7 +7,7 @@ canonifyurls = true
 theme = "hugo-academic-group"
 title = "Dalhousie Ocean Dynamics Group (DODG)"
 math = true
-copyright = "&copy; DODG, 2021"
+copyright = "&copy; DODG, 2026"
 
 [taxonomies]
 category = "categories"
@@ -25,21 +25,21 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "About"
-    text =  "Lorem markdownum potest utinam stabat nostris circinat sui intus eminus sanguis: narres gratata hastae dissimulant erat Trinacris! Et caput mandata gravitate atque, caeloque Oleniae austrum! Haemonio ex neque in suas iste, quem hastam alis conquerar altae, arce tutaeque est sincera [fores](http://illo.com/). Et *Aetnaea in spectat* mutarent. Prospexit longaeque adest fatidicamque dicemur habet, nec cognitus me Trachinia sperat."
+    text =  "Ocean researchers with interests in how physics interacts with ocean biogeochemistry"
     link = "/about"
     link_text = "Meet the team"
     weight = 1
   
   [[params.slogan_columns]]
     title = "Mission"
-    text = "Per peterem ex, Eurystheus videt maeonis, Paeonis uritur. Dextera [legem](http://nubibus.net/qualisardeat), contigerat optabile undis bene: abis sperato. Instrumenta arma, subiectas generis non ipsa patres quia magna Messeneque lacrimaeque torva. Aequo crescunt inrequieta feras, diu illa est occupat aequoribus hunc Elpenora tollens vult robore. Finiat priora vulnere nec Nelei fit quae totidemque intibaque iter longo."
+    text =  "*How inappropriate to call this planet Earth, when it is quite clearly Ocean* -- Arthur C Clark"
     link = "/mission"
     link_text = "Read more"
     weight = 2
 
   [[params.slogan_columns]]
     title = "Approach"
-    text = "Lorem markdownum in texit! Quoniam ferar tabellis modo! Nam et spatiosumque puellae modo temperiemque mare canentis ministris **populisque** actus flammifera [dicta](http://www.geminoalpino.com/nec-pegason), non neque nutrit [recingunt Phrygiae](http://vitta-telamone.org/cyllenenquearcus.php). Pignoribus Phaestia Chaonis simulacraque viae et genus miratur moenibus tinnitibus ex simul."
+    text = "Ocean measurements and numerical modeling across a range of complexities"
     link = "/approach"
     link_text = "Read more"
     weight = 3

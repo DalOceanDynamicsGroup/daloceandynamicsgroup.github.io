@@ -5,7 +5,7 @@ id = "member1"
 interests = ["Ocean mixing, internal waves"]
 name = "Marie Babineau"
 portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am Member Member."
+short_bio = "MSc."
 short_name = ""
 title = "Marie Babineau"
 
@@ -33,10 +33,6 @@ title = "Marie Babineau"
     course = "B.Eng Water Engineering"
     institution = 'Université Laval'
     year = 2020
-
-[[organizations]]
-    name = "Dalhousie University"
-    role = "Msc Student"
 
 +++
 

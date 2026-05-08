@@ -2,10 +2,10 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "linar"
-interests = ["Ocean mixing" "Water mass modification" "Internal waves" "Canadian Arctic Archipelago" "Sea ice"]
+interests = ["Ocean mixing", "Water mass modification", "Internal waves", "Canadian Arctic Archipelago", "Sea ice"]
 name = "Lina Rotermund"
 portrait = "portrait/Lina_Saglek.jpg"
-short_bio = "Graduate Student"
+short_bio = "Postdoc"
 short_name = "Lina"
 title = "Lina M. Rotermund"
 
@@ -37,11 +37,7 @@ title = "Lina M. Rotermund"
 [[education]] 
     course = "Ph.D. in  Physical  Oceanography"
     institution = 'Dalhousie University'
-    year = "in progress"
-
-[[organizations]]
-    name = "Dalhousie University"
-    role = "Graduate Student"
+    year = "2026"
 
 +++
 I joined the Dalhousie Ocean Dynamics Group (DODG) in September 2020, when I began my PhD under the supervision of Dr. Ruth Musgrave and Dr. Clark Richards. 
