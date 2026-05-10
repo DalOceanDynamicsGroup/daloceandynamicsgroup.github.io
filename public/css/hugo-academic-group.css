@@ -44,15 +44,15 @@ header{
 }
 
 .header-content .header-content-inner p.slogan-text {
-    font-size: 24px;
+    font-size: 28px;
     padding: 25px 0px 25px 0px;
 }
 
 .header-content .header-content-inner p {
     margin-bottom: 50px;
-    font-size: 16px;
-    font-weight: 300;
-    color: rgba(255,255,255,.7);
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(255,255,255,1);
 }
 
 .slogan-column {

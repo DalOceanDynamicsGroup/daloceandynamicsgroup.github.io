@@ -25,7 +25,7 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "About"
-    text =  "Ocean turbulence and mixing"
+    text =  "We study the processes that generate turbulence and mixing in the ocean, and their broader impacts across the global ocean system."
     link = "/about"
     link_text = "Meet the team"
     weight = 1
@@ -39,7 +39,7 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "Approach"
-    text = "Ocean measurements and numerical modeling across a range of complexities"
+    text = "We use both ocean observations and numerical modeling to explore questions relating to turbulence and mixing."
     link = "/approach"
     link_text = "Read more"
     weight = 3
@@ -124,10 +124,10 @@ tag = "tags"
       url = "/#members"
       weight = 6
 
-  [[menu.main]]
-      name = "Blog"
-      url = "/#posts"
-      weight = 7
+  # [[menu.main]]
+  #     name = "Blog"
+  #     url = "/#posts"
+  #     weight = 7
 
 
   [[menu.main]]

@@ -5,7 +5,7 @@ external_link = ""
 image = ""
 project_id = ""
 short_description = ""
-title = "Air-sea gas exchange"
+title = "Near-surface turbulence and air-sea gas exchange"
 [[participants]]
     name = "Member 1"
     is_member = true
