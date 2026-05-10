@@ -25,7 +25,7 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "About"
-    text =  "Ocean researchers with interests in how physics interacts with ocean biogeochemistry"
+    text =  "Ocean turbulence and mixing"
     link = "/about"
     link_text = "Meet the team"
     weight = 1
