@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dalhousie Ocean Dynamics Group (DODG)</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Dalhousie Ocean Dynamics Group (DODG)</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; DODG, 2026</copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 16:50:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test post please ignore</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Tue, 12 Jul 2016 16:50:58 +0200</pubDate>
+      <guid>http://localhost:1313/post/post2/</guid>
+      <description>&lt;h1 id=&#34;est-procrin&#34;&gt;Est Procrin&lt;/h1&gt;&#xA;&lt;h2 id=&#34;terrigenam-rorant-colla-victoria-per-monstra-obiecit&#34;&gt;Terrigenam rorant colla victoria per monstra obiecit&lt;/h2&gt;&#xA;&lt;p&gt;Lorem &lt;em&gt;markdownum&lt;/em&gt;, Circaea: neque Phrygiae et bacarum caelo, iniectos. Ut&#xA;tenvit per coniecta? Vagantem aut nunc velocibus praenuntia tenuit a Phoebi&#xA;convicia mentis, conveniunt hunc! Supervolat domitis pronusque in artus,&#xA;postquam videt et mediis. Pectine rigorem aethera, signum, saucia &lt;strong&gt;Salmacis&#xA;si&lt;/strong&gt; facibus &lt;a href=&#34;http://colonishaec.com/levatum-tum&#34;&gt;pectore aversos gentes&lt;/a&gt; neve,&#xA;et usus siqua.&lt;/p&gt;&#xA;&lt;h2 id=&#34;aestuque-deceant-fuerat-quam-iura&#34;&gt;Aestuque deceant fuerat quam iura&lt;/h2&gt;&#xA;&lt;p&gt;Rabie &lt;a href=&#34;http://sidere.org/.html&#34;&gt;intus fugio&lt;/a&gt; potentia, protecta proculcat pelle,&#xA;membris in praesens lustrantem ignis inmemores puer mitissima tenent. Et facto.&#xA;Qui neve et, loquentis et imagine iugulo canisve oetaeas mirandum. Grandia&#xA;&lt;em&gt;comitum et&lt;/em&gt; in auras ora nymphas male quibus, Limyren et ad nostrisque et.&#xA;Vitarit &lt;em&gt;partu&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>http://localhost:1313/post/notebook/</link>
+      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
+      <guid>http://localhost:1313/post/notebook/</guid>
+      <description>&lt;h1 id=&#34;an-ijulia-preview&#34;&gt;An IJulia Preview&lt;/h1&gt;&#xA;&lt;p&gt;This notebook is a preview demo of &lt;strong&gt;IJulia&lt;/strong&gt;: a &lt;a href=&#34;http://julialang.org/&#34;&gt;Julia-language&lt;/a&gt; backend combined with the &lt;a href=&#34;http://ipython.org/&#34;&gt;IPython&lt;/a&gt; interactive environment.   This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful &lt;a href=&#34;http://ipython.org/notebook.html&#34;&gt;graphical notebook&lt;/a&gt;, which combines code, formatted text, math, and multimedia in a single document.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Note: this is a &lt;em&gt;preview&lt;/em&gt;, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the &lt;a href=&#34;https://github.com/JuliaLang/IJulia.jl&#34;&gt;IJulia github page&lt;/a&gt;, and functionality is evolving rapidly.  We hope to have a more polished release soon.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;basic-julia-interaction&#34;&gt;Basic Julia interaction&lt;/h2&gt;&#xA;&lt;p&gt;Basic mathematical expressions work like you expect:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown ipsum</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h1 id=&#34;magorum-notissima-limite-sua-pars-simus-sumptis&#34;&gt;Magorum notissima limite sua pars simus sumptis&lt;/h1&gt;&#xA;&lt;h2 id=&#34;incessit-ignota-coniunx-serpunt&#34;&gt;Incessit ignota coniunx serpunt&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum ab cunas, semine commissus matrona manibusque plumis, nova sub&#xA;Spartana &lt;em&gt;loca ignibus&lt;/em&gt;. In partibus muneris, paludes rara, plectrumque, fontis,&#xA;concubitus a locoque demptos exclamat conde ab aethera &lt;strong&gt;nihil&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quamquam abit vulnere nec intus decidit clamor&lt;/li&gt;&#xA;&lt;li&gt;Nocuit quae tamen timent aperta&lt;/li&gt;&#xA;&lt;li&gt;Cervice preces totumque postquam nunc iacit sive&lt;/li&gt;&#xA;&lt;li&gt;Potestas te sis putaret sceleri totiens&lt;/li&gt;&#xA;&lt;li&gt;Retro profundo ad sede Iovem in este&lt;/li&gt;&#xA;&lt;li&gt;In ait flumina intrare Troiae&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ut fatis &lt;em&gt;praecordia alvum iamque&lt;/em&gt;, adeo tympana &lt;strong&gt;male&lt;/strong&gt; silvas. Dammis adit&#xA;sanguine tamen lacrimis tu venias ut si gratum! &lt;a href=&#34;http://www.traxere-veniat.org/&#34;&gt;Nigrior&#xA;et&lt;/a&gt; saepe cum iterum cura it generosque animam&#xA;raptusque in possunt ut portat, Latreus Iason tenuit macies in. Mox cista&#xA;similis acerque celeberrima ignibus capillos et in mota conde ducta domus&#xA;capellae Minervam rapido quoque.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
