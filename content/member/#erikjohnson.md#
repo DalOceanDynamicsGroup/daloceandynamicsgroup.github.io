@@ -1,26 +1,27 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "emily"
+id = "erik"
 interests = ["Numerical models", "Ocean Alkalinity Enhacement", "Ocean Observations", "Biophysical Interactions"]
-name = "Emily Chua"
-portrait = "portrait/emily_portrait.jpg"
-short_bio = "International Postdoctoral Fellow"
-short_name = "Emily"
-title = "Emily Chua"
+name = "Erik Johnson"
+portrait = "portrait/erik-1847769488.jpg"
+short_bio = "Mitacs Postdoctoral Fellow"
+short_name = "Erik"
+title = "Erik Johnson"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:emily.chua@dal.ca"
+    link = "mailto:erik.johnson@dal.ca"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/emily"
+	link = "//github.com/ErikJohnsonOceanography"
 
+	
 [[organizations]]
-    name = "Dalhousie University, MIT"
+    name = "Dalhousie University, atdepth"
     role = "Postdoc"
 
 +++

@@ -22,7 +22,7 @@ header{
     background-image: url("../img/header2026.jpg");
     background-size: cover;
     text-align: center;
-    color: #000;
+    color: #fff;
     background-position: bottom;
 			 /* center;*\/ */
     /* min-height: 100%;  */
@@ -32,6 +32,7 @@ header{
     position: relative;
     width: 100%;
     padding: 50px 15px;
+    
 }
 
 .header-content .header-content-inner h1 {
@@ -47,6 +48,7 @@ header{
 .header-content .header-content-inner p.slogan-text {
     font-size: 28px;
     padding: 25px 0px 25px 0px;
+    color: #d3d3d3;
 }
 
 .header-content .header-content-inner p {
@@ -623,9 +625,9 @@ section#projects.home-section .project-tags {
 }
 
 .project-picture {
-    background-image: url('../img/normal.png');
-    width: 150px;
-    height: 150px;
+    background-image: url('../img/normal.png'); 
+    width: 100px;
+    height: 100px;
     margin: 20px 10px 10px -5px;
     background-size: cover;
     -webkit-background-size: cover;

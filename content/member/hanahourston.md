@@ -18,5 +18,8 @@ title = "Hana Hourston"
     icon_pack = "fa"
     link = "//github.com/hana"
 
+[[organizations]]
+	name = "Dalhousie University"
+	role = "MSc student"
 +++
 

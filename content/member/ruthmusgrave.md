@@ -4,7 +4,7 @@ date = "2016-07-12T15:52:22+02:00"
 id = "ruth"
 interests = ["Geophysical Fluid Dynamics", "Ocean Mixing", "Internal waves", "Submesoscale dynamics", "Instablities"]
 name = "Ruth Musgrave"
-portrait = "portrait/images.jpeg"
+portrait = "portrait/ruth_profile.JPG"
 short_bio = "Associate Professor. Canada Research Chair Tier II."
 short_name = ""
 title = "Ruth Musgrave"
@@ -39,6 +39,10 @@ weight = 1
     course = "BSc Physics"
     institution = 'Melbourne University, Victoria, Australia'
     year = 2005
+
+[[organizations]]
+    name = "Dalhousie University"
+    role = "Associate Professor, Canada Research Chair Tier 2"
 
 +++
 

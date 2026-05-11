@@ -3,6 +3,7 @@ bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "josiane"
 interests = ["Air-sea gas exchange", "Ocean Alkalinity Enhacement"]
+portrait = "portrait/Josiane-Ostiguy.png"
 name = "Josiane Ostiguy"
 short_bio = "PhD Student"
 short_name = "Josiane"
