@@ -2,8 +2,9 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "member1"
+weight = 8
 interests = ["Ocean mixing, internal waves"]
-name = "Marie Babineau"
+name = "Marie Babineau, MSc 2023"
 portrait = "/portraits/portrait.jpg"
 short_bio = "MSc."
 short_name = ""

@@ -8,7 +8,7 @@ portrait = "portrait/erik-1847769488.jpg"
 short_bio = "Mitacs Postdoctoral Fellow"
 short_name = "Erik"
 title = "Erik Johnson"
-
+weight = 2
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
@@ -19,10 +19,6 @@ title = "Erik Johnson"
     icon_pack = "fa"
 	link = "//github.com/ErikJohnsonOceanography"
 
-[[social]]
-	icon = "external-link"
-	icon_pack = "fa"
-	link = "https://erikjohnsonoceanography.github.io/about/"
 	
 [[organizations]]
     name = "Dalhousie University, atdepth"

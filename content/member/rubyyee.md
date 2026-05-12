@@ -8,7 +8,7 @@ portrait = "/portrait/RY_profilepic.jpg"
 short_bio = "PhD student at Dal."
 short_name = "Ruby"
 title = "Ruby Yee"
-
+weight = 5
 [[social]]
     icon = "envelope"
     icon_pack = "fa"

@@ -8,7 +8,7 @@ portrait = "portrait/emily_portrait.jpg"
 short_bio = "International Postdoctoral Fellow"
 short_name = "Emily"
 title = "Emily Chua"
-
+weight = 3
 [[social]]
     icon = "envelope"
     icon_pack = "fa"

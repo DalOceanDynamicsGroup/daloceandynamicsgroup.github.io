@@ -51,6 +51,7 @@ tag = "tags"
     detailed_list = true
     title = "Selected Publications"
     subtitle = ""
+    weight = 2
 
   # Publications section.
   # Section will only be displayed if there are publications in `content/publication/`.
@@ -106,10 +107,10 @@ tag = "tags"
   #     url = "/about"
   #     weight = 2
 
-[[menu.main]]
-      name = "Research"
-      url = "/research"
-      weight = 2
+  # [[menu.main]]
+  #     name = "Research"
+  #     url = "/research"
+  #     weight = 2
 
   [[menu.main]]
       name = "Publications"

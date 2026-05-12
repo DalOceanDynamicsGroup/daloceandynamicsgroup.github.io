@@ -8,6 +8,7 @@ name = "Josiane Ostiguy"
 short_bio = "PhD Student"
 short_name = "Josiane"
 title = "Josiane Ostiguy"
+weight = 6
 
 [[social]]
     icon = "envelope"

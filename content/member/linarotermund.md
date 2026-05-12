@@ -8,7 +8,7 @@ portrait = "portrait/Lina_Saglek.jpg"
 short_bio = "Postdoc"
 short_name = "Lina"
 title = "Lina M. Rotermund"
-
+weight = 4
 [[social]]
     icon = "envelope"
     icon_pack = "fa"

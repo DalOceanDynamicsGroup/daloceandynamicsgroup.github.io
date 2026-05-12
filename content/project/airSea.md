@@ -7,9 +7,10 @@ project_id = ""
 short_description = ""
 title = "Near-surface turbulence and air-sea gas exchange"
 [[participants]]
-    name = "Member 1"
+    name = "josiane"
     is_member = true
-    id = "member1"
+    id = "josiane"
+weight = 2
 +++
 
 

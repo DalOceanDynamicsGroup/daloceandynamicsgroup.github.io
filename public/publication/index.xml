@@ -7,14 +7,49 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; DODG, 2026</copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 16:37:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 16:37:31 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deep Learning</title>
-      <link>http://localhost:1313/publication/learning/</link>
-      <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/learning/</guid>
+      <title>Sea ice effects on stratification in Barrow Strait: a potential energy anomaly framework</title>
+      <link>http://localhost:1313/publication/rotermund2025/</link>
+      <pubDate>Sat, 12 Jul 2025 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/rotermund2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Two-hour sea level oscillations in Halifax Harbour</title>
+      <link>http://localhost:1313/publication/kelley2025/</link>
+      <pubDate>Mon, 12 May 2025 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/kelley2025/</guid>
       <description>&lt;p&gt;You can add information in $\LaTeX$ and &lt;em&gt;Markdown&lt;/em&gt; here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mapping of a Mid-Depth Salinity Maximum Intrusion South of New England in June 2021 and Implications for Cross-Shelf Exchange</title>
+      <link>http://localhost:1313/publication/gawarkiewicz2025/</link>
+      <pubDate>Wed, 12 Feb 2025 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/gawarkiewicz2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The generation of superinertial coastally trapped waves by scattering at the coast</title>
+      <link>http://localhost:1313/publication/musgrave2024/</link>
+      <pubDate>Tue, 12 Mar 2024 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/musgrave2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internal tides at the coast: energy flux of baroclinic tides propagating into the deep ocean in the presence of supercritical shelf topography</title>
+      <link>http://localhost:1313/publication/zemskova2024/</link>
+      <pubDate>Mon, 04 Mar 2024 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/zemskova2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turbulent diffusivity profiles on the shelf and slope at the southern edge of the Canada Basin</title>
+      <link>http://localhost:1313/publication/yee2024/</link>
+      <pubDate>Fri, 12 Jan 2024 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/yee2024/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

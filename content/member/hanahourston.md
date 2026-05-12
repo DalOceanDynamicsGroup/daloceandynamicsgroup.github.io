@@ -7,6 +7,7 @@ name = "Hana Hourston"
 short_bio = "MSc Student"
 short_name = "Hana"
 title = "Hana Hourston"
+weight = 8
 
 [[social]]
     icon = "envelope"

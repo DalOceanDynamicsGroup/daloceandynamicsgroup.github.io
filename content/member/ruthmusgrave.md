@@ -1,11 +1,11 @@
 +++
 bio = ""
-date = "2016-07-12T15:52:22+02:00"
+date = "2016-09-12T15:52:22+02:00"
 id = "ruth"
 interests = ["Geophysical Fluid Dynamics", "Ocean Mixing", "Internal waves", "Submesoscale dynamics", "Instablities"]
 name = "Ruth Musgrave"
 portrait = "portrait/ruth_profile.JPG"
-short_bio = "Associate Professor. Canada Research Chair Tier II."
+short_bio = "Physical oceanographer with interdisciplinary interests"
 short_name = ""
 title = "Ruth Musgrave"
 weight = 1
