@@ -21,7 +21,9 @@ tag = "tags"
   address = "Dalhousie University, Halifax NS, Canada"
 
   slogan = "Dalhousie Ocean Dynamics Group"
-  slogan_text = "<em>How inappropriate to call this planet Earth, when it is quite clearly Ocean</em><br>Arthur C Clark"
+#  slogan_text = "<em>How inappropriate to call this planet Earth, when it is quite clearly Ocean</em><br>Arthur C Clark"
+#   slogan_text = "<em>What is a scientist after all? It is a curious man looking through a keyhole, the keyhole of nature, trying to know what's going on</em><br>Jacques Yves Cousteau"
+    slogan_text = "<em>Prediction is very difficult, especially about the future</em><br>Niels Bohr"
 
   [[params.slogan_columns]]
     # title = "About"
