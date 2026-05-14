@@ -1,6 +1,6 @@
 +++
 bio = ""
-date = "2016-07-12T15:52:22+02:00"
+date = "2022-07-12T15:52:22+02:00"
 id = "josiane"
 interests = ["Air-sea gas exchange", "Ocean Alkalinity Enhacement"]
 portrait = "portrait/Josiane-Ostiguy.png"
@@ -19,6 +19,10 @@ weight = 6
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/josiane"
+
+[[organizations]]
+    name = "Dalhousie University"
+    role = "PhD Student"
 
 
 +++

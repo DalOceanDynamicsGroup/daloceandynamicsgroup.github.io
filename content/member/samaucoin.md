@@ -18,13 +18,15 @@ weight = 7
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/sam"
+    link = "//github.com/s-aucoin"
 
 [[social]]
 	icon = "external-link"
 	icon_pack = "fa"
 	link = "https://s-aucoin.github.io/sam-aucoin-oceanography/"
 
-
+[[organizations]]
+    name = "Dalhousie University"
+    role = "PhD Student"
 +++
 

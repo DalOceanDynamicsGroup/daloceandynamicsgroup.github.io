@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-09-12T15:52:22+02:00"
 id = "ruth"
-interests = ["Geophysical Fluid Dynamics", "Ocean Mixing", "Internal waves", "Submesoscale dynamics", "Instablities"]
+interests = ["Geophysical Fluid Dynamics", "Ocean Mixing", "Internal waves", "Submesoscale dynamics", "Instablities", "Ocean modelling"]
 name = "Ruth Musgrave"
 portrait = "portrait/ruth_profile.JPG"
 short_bio = "Physical oceanographer with interdisciplinary interests"
