@@ -39,6 +39,10 @@ weight = 4
     institution = 'Dalhousie University'
     year = "2026"
 
+[[organizations]]
+        name = "Dalhousie University"
+        role = "Postdoc"
+
 +++
 I joined the Dalhousie Ocean Dynamics Group (DODG) in September 2020, when I began my PhD under the supervision of Dr. Ruth Musgrave and Dr. Clark Richards. 
 
